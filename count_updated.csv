@@ -1,0 +1,81 @@
+country_name,count,topic
+Bangladesh,36,elon
+Denmark,11,elon
+Estonia,3,elon
+Ethiopia,11,elon
+France,55,elon
+Greece,22,elon
+India,100,elon
+Indonesia,100,elon
+Kenya,98,elon
+Lebanon,8,elon
+Mexico,60,elon
+Pakistan,100,elon
+Poland,16,elon
+Portugal,35,elon
+South Korea,7,elon
+Spain,72,elon
+Sweden,38,elon
+Turkey,100,elon
+United Kingdom,100,elon
+United States,100,elon
+Bangladesh,81,ukraine
+Denmark,100,ukraine
+Estonia,100,ukraine
+Ethiopia,43,ukraine
+France,100,ukraine
+Greece,100,ukraine
+India,100,ukraine
+Indonesia,99,ukraine
+Kenya,100,ukraine
+Lebanon,35,ukraine
+Mexico,100,ukraine
+Pakistan,99,ukraine
+Poland,100,ukraine
+Portugal,100,ukraine
+South Korea,100,ukraine
+Spain,100,ukraine
+Sweden,100,ukraine
+Turkey,100,ukraine
+United Kingdom,100,ukraine
+United States,100,ukraine
+Bangladesh,57,covid
+Denmark,78,covid
+Estonia,7,covid
+Ethiopia,27,covid
+France,99,covid
+Greece,49,covid
+India,100,covid
+Indonesia,98,covid
+Kenya,99,covid
+Lebanon,7,covid
+Mexico,100,covid
+Pakistan,100,covid
+Poland,44,covid
+Portugal,99,covid
+South Korea,60,covid
+Spain,100,covid
+Sweden,68,covid
+Turkey,56,covid
+United Kingdom,100,covid
+United States,100,covid
+Bangladesh,10,oscars
+Denmark,12,oscars
+Estonia,1,oscars
+Ethiopia,16,oscars
+France,98,oscars
+Greece,9,oscars
+India,97,oscars
+Indonesia,99,oscars
+Kenya,99,oscars
+Lebanon,4,oscars
+Mexico,98,oscars
+Pakistan,54,oscars
+Poland,11,oscars
+Portugal,57,oscars
+South Korea,12,oscars
+Spain,96,oscars
+Sweden,20,oscars
+Turkey,48,oscars
+United Kingdom,99,oscars
+United States,100,oscars

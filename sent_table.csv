@@ -1,0 +1,80 @@
+country_name,total_count,topic,num_tweets_used,sent_index,rank,country,happiness2021,happiness2020,pop2022
+Bangladesh,36,elon,18,1.777777778,99,Bangladesh,5.025,4.833,167885.689
+Denmark,11,elon,4,1.5,2,Denmark,7.62,7.646,5834.95
+Estonia,3,elon,1,-2,39,Estonia,6.189,6.022,1321.91
+Ethiopia,11,elon,5,1.2,130,Ethiopia,4.275,4.186,120812.698
+France,55,elon,24,-0.5833333333,21,France,6.69,6.664,65584.518
+Greece,22,elon,18,2.5,67,Greece,5.723,5.515,10316.637
+India,100,elon,44,0.6818181818,136,India,3.819,3.573,1406631.776
+Indonesia,100,elon,74,1.783783784,80,Indonesia,5.345,5.286,279134.505
+Kenya,98,elon,38,1.026315789,119,Kenya,4.607,4.583,56215.221
+Lebanon,8,elon,5,2.2,121,Lebanon,4.584,4.772,6684.849
+Mexico,60,elon,28,0.2857142857,35,Mexico,6.317,6.465,131562.772
+Pakistan,100,elon,60,2.85,103,Pakistan,4.934,5.693,229488.994
+Poland,16,elon,8,-2.375,43,Poland,6.166,6.186,37739.785
+Portugal,35,elon,20,1.4,57,Portugal,5.929,5.911,10140.57
+South Korea,7,elon,4,-0.5,61,South Korea,5.845,5.872,51329.899
+Spain,72,elon,42,-0.09523809524,27,Spain,6.491,6.401,46719.142
+Sweden,38,elon,21,-0.9047619048,7,Sweden,7.363,7.353,10218.971
+Turkey,100,elon,54,0.962962963,102,Turkey,4.948,5.132,85561.976
+United Kingdom,100,elon,67,-0.5074626866,17,United Kingdom,7.064,7.165,68497.907
+United States,100,elon,67,0.3731343284,19,United States of America,6.951,6.94,334805.269
+Bangladesh,81,ukraine,61,-2.459016393,99,Bangladesh,5.025,4.833,167885.689
+Denmark,100,ukraine,64,-1.53125,2,Denmark,7.62,7.646,5834.95
+Estonia,100,ukraine,82,-0.987804878,39,Estonia,6.189,6.022,1321.91
+Ethiopia,43,ukraine,39,-1.871794872,130,Ethiopia,4.275,4.186,120812.698
+France,100,ukraine,60,-0.5666666667,21,France,6.69,6.664,65584.518
+Greece,100,ukraine,62,-0.7096774194,67,Greece,5.723,5.515,10316.637
+India,100,ukraine,46,-0.6086956522,136,India,3.819,3.573,1406631.776
+Indonesia,99,ukraine,78,-1.205128205,80,Indonesia,5.345,5.286,279134.505
+Kenya,100,ukraine,71,-1.830985915,119,Kenya,4.607,4.583,56215.221
+Lebanon,35,ukraine,24,-1.541666667,121,Lebanon,4.584,4.772,6684.849
+Mexico,100,ukraine,62,-0.6290322581,35,Mexico,6.317,6.465,131562.772
+Pakistan,99,ukraine,82,-1.085365854,103,Pakistan,4.934,5.693,229488.994
+Poland,100,ukraine,70,-0.5428571429,43,Poland,6.166,6.186,37739.785
+Portugal,100,ukraine,69,-0.6231884058,57,Portugal,5.929,5.911,10140.57
+South Korea,100,ukraine,97,-3.804123711,61,South Korea,5.845,5.872,51329.899
+Spain,100,ukraine,73,-0.3835616438,27,Spain,6.491,6.401,46719.142
+Sweden,100,ukraine,74,-1.5,7,Sweden,7.363,7.353,10218.971
+Turkey,100,ukraine,55,-1.709090909,102,Turkey,4.948,5.132,85561.976
+United Kingdom,100,ukraine,84,-1.119047619,17,United Kingdom,7.064,7.165,68497.907
+United States,100,ukraine,72,-1.583333333,19,United States of America,6.951,6.94,334805.269
+Bangladesh,57,covid,24,-0.6666666667,99,Bangladesh,5.025,4.833,167885.689
+Denmark,78,covid,48,-0.2916666667,2,Denmark,7.62,7.646,5834.95
+Estonia,7,covid,6,-0.3333333333,39,Estonia,6.189,6.022,1321.91
+Ethiopia,27,covid,21,0.1904761905,130,Ethiopia,4.275,4.186,120812.698
+France,99,covid,64,-0.578125,21,France,6.69,6.664,65584.518
+Greece,49,covid,31,-2.064516129,67,Greece,5.723,5.515,10316.637
+India,100,covid,64,-1.28125,136,India,3.819,3.573,1406631.776
+Indonesia,98,covid,56,-0.1607142857,80,Indonesia,5.345,5.286,279134.505
+Kenya,99,covid,65,-0.6923076923,119,Kenya,4.607,4.583,56215.221
+Lebanon,7,covid,4,-1,121,Lebanon,4.584,4.772,6684.849
+Mexico,100,covid,74,-0.3243243243,35,Mexico,6.317,6.465,131562.772
+Pakistan,100,covid,63,-0.5555555556,103,Pakistan,4.934,5.693,229488.994
+Poland,44,covid,27,-1.740740741,43,Poland,6.166,6.186,37739.785
+Portugal,99,covid,67,0.1343283582,57,Portugal,5.929,5.911,10140.57
+South Korea,60,covid,37,0.5945945946,61,South Korea,5.845,5.872,51329.899
+Spain,100,covid,62,-0.9032258065,27,Spain,6.491,6.401,46719.142
+Sweden,68,covid,44,-1.340909091,7,Sweden,7.363,7.353,10218.971
+Turkey,56,covid,30,0.4333333333,102,Turkey,4.948,5.132,85561.976
+United Kingdom,100,covid,78,-1.102564103,17,United Kingdom,7.064,7.165,68497.907
+United States,100,covid,62,-0.7419354839,19,United States of America,6.951,6.94,334805.269
+Bangladesh,10,oscars,6,-1.833333333,99,Bangladesh,5.025,4.833,167885.689
+Denmark,12,oscars,7,1.142857143,2,Denmark,7.62,7.646,5834.95
+Ethiopia,16,oscars,10,1.4,130,Ethiopia,4.275,4.186,120812.698
+France,98,oscars,37,-0.972972973,21,France,6.69,6.664,65584.518
+Greece,9,oscars,2,-1,67,Greece,5.723,5.515,10316.637
+India,97,oscars,64,-0.21875,136,India,3.819,3.573,1406631.776
+Indonesia,99,oscars,42,0.3571428571,80,Indonesia,5.345,5.286,279134.505
+Kenya,99,oscars,55,-0.5818181818,119,Kenya,4.607,4.583,56215.221
+Lebanon,4,oscars,3,-2.333333333,121,Lebanon,4.584,4.772,6684.849
+Mexico,98,oscars,30,-0.7333333333,35,Mexico,6.317,6.465,131562.772
+Pakistan,54,oscars,29,-0.8965517241,103,Pakistan,4.934,5.693,229488.994
+Poland,11,oscars,7,-1.714285714,43,Poland,6.166,6.186,37739.785
+Portugal,57,oscars,32,-1.59375,57,Portugal,5.929,5.911,10140.57
+South Korea,12,oscars,2,-3,61,South Korea,5.845,5.872,51329.899
+Spain,96,oscars,35,-1.228571429,27,Spain,6.491,6.401,46719.142
+Sweden,20,oscars,14,-1.5,7,Sweden,7.363,7.353,10218.971
+Turkey,48,oscars,16,1.0625,102,Turkey,4.948,5.132,85561.976
+United Kingdom,99,oscars,58,-1.637931034,17,United Kingdom,7.064,7.165,68497.907
+United States,100,oscars,46,-0.7173913043,19,United States of America,6.951,6.94,334805.269
